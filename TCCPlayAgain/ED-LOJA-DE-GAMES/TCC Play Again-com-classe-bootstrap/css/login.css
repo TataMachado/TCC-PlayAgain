@@ -1,0 +1,21 @@
+.paragrafo {
+    padding: 3%;
+}
+
+.esquerda {
+    position: relative;
+    left: 50%;
+    bottom: 35px;
+}
+
+a:hover {
+    color: #5882FA;
+    text-decoration: none;
+    size: 12px;
+}
+
+a {
+    color: aliceblue;
+    size: 12px;
+    text-decoration: none;
+}
